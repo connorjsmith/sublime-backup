@@ -1,0 +1,45 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AlignTab",
+		"BracketGuard",
+		"C Improved",
+		"C++11",
+		"ColorPicker",
+		"Compare Side-By-Side",
+		"CSS Snippets",
+		"Emmet",
+		"FASM x86",
+		"Fold Comments",
+		"GoSublime",
+		"Highlight",
+		"JavaScript & NodeJS Snippets",
+		"NASM x86 Assembly",
+		"Package Control",
+		"PackageResourceViewer",
+		"PowerShell",
+		"Python 3",
+		"Python Auto-Complete",
+		"Python Improved",
+		"Reform",
+		"ScopeHunter",
+		"Shell Command",
+		"SublimeCodeIntel",
+		"SVN",
+		"Terminal",
+		"Theme - Afterglow",
+		"Theme - Brogrammer",
+		"Theme - Flatgrammer",
+		"Theme - Freesia",
+		"Theme - Soda",
+		"Theme - Soda SolarizedDark",
+		"Theme - Sodarized",
+		"Theme - Tech49",
+		"Theme - Vim Blackboard",
+		"Tomorrow Color Schemes",
+		"Verilog"
+	]
+}
