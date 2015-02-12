@@ -12,7 +12,7 @@
 	<array>
 		<dict>
 			<key>match</key>
-			<string>\b(?i)(v)?(jmpi|call|ldbu|addi|stb|br|ldb|cmpgelldhu|andi|sth|ldh|cmplti|initda|ori|stw|blt|ldw|cmpnei|flushda|xori|bne|cmpeqi|ldbuio|muli|stbio|beq|ldbio|cmpgeui|ldhuio|andhi|sthio|bgeu|ldhio|cmpltui|custom|initd|orhi|stwio|bltu|ldwio|rdprs|R-type|flushd|xorhi|eret|roli|rol|flushp|ret|not|mulxuu|cmpge|bret|ror|flushi|jmp|cmplt|slli|sll|wrprs|or|mulxsu|cmpne|srli|srl|nextpc|callr|cmpeq|divu|div|rdctl|mul|cmpgeu|initi|trap|cmpltu|add|break|sync|sub|srai|sra|and|xor|mulxss|wrctl|movia|bgt|bgtu|ble|bleu|cpmgt|cmpgti|cmpgtu|cmpgtui|cmple|cmplei|cmpleu|cmpleui|mov|movui|nop|subi)\b</string>
+			<string>\b(?i)(v)?(jmpi|call|ldbu|addi|stb|br|ldb|cmpgelldhu|andi|sth|ldh|cmplti|initda|ori|stw|blt|ldw|cmpnei|flushda|xori|bne|cmpeqi|ldbuio|muli|stbio|beq|ldbio|cmpgeui|ldhuio|andhi|sthio|bgeu|ldhio|cmpltui|custom|initd|orhi|stwio|bltu|ldwio|rdprs|R-type|flushd|xorhi|eret|roli|rol|flushp|ret|not|mulxuu|cmpge|bret|ror|flushi|jmp|cmplt|slli|sll|wrprs|or|mulxsu|cmpne|srli|srl|nextpc|callr|cmpeq|divu|div|rdctl|mul|cmpgeu|initi|trap|cmpltu|add|break|sync|sub|srai|sra|and|xor|mulxss|wrctl|movia|bgt|bgtu|ble|bleu|cpmgt|cmpgti|cmpgtu|cmpgtui|cmple|cmplei|cmpleu|cmpleui|mov|movi|movui|nop|subi|)\b</string>
 			<key>name</key>
 			<string>keyword.control.assembly</string>
 		</dict>
